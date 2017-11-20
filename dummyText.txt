@@ -1,0 +1,14 @@
+insert J Cole<SEP>  Nice Watch
+insert J Cole <SEP> No Role Modelz
+insert G-Eazy <SEP> Me Myself & I
+insert Logic <SEP>Under Pressure 
+insert Drake<SEP> Uptown
+insert Kendrick Lamar <SEP> The Recipe
+insert Drake <SEP> Too Good
+insert Drake <SEP> Controller 
+insert Rihanna <SEP>Work
+insert Arianna Grande <SEP> Side to Side 
+print artist
+print    song
+insert Arianna Grande <SEP>I'm Into You
+print song

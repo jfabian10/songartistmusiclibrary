@@ -1,0 +1,16 @@
+insert Drake <SEP> I'm Going In
+insert Drake <SEP> Too Good
+insert Drake <SEP> I'm Going In
+insert Logic<SEP> Under Pressure
+insert Lady Gaga Just Dance
+print artist 
+print song
+remove artist Meek Mill
+remove song Forever
+remove artist Drake 
+remove song Under Pressure
+remove apple
+Hello World
+print artist 
+print song
+print apples
